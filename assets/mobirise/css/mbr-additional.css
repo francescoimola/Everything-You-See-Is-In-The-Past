@@ -808,7 +808,7 @@ section.lazy-placeholder:after {
 .cid-rUb6TifUQS {
   padding-top: 45px;
   padding-bottom: 30px;
-  background-color: #f9f295;
+  background-color: #ffffff;
 }
 .cid-rUb6TifUQS .mbr-text,
 .cid-rUb6TifUQS blockquote {
@@ -829,6 +829,9 @@ section.lazy-placeholder:after {
 .cid-rUbbgGcYDQ blockquote {
   color: #767676;
 }
+.cid-rUbbgGcYDQ .mbr-text {
+  color: #232323;
+}
 .cid-rUbbmWyygd {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -837,6 +840,21 @@ section.lazy-placeholder:after {
 .cid-rUbbmWyygd .mbr-text,
 .cid-rUbbmWyygd blockquote {
   color: #767676;
+}
+.cid-rUbbmWyygd .mbr-text {
+  color: #232323;
+}
+.cid-rUc35JwLrs {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #f9f295;
+}
+.cid-rUc35JwLrs .mbr-text,
+.cid-rUc35JwLrs blockquote {
+  color: #767676;
+}
+.cid-rUc35JwLrs .mbr-text {
+  color: #232323;
 }
 .cid-rUb6TkHGk4 {
   padding-top: 45px;
