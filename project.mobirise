@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Everything You See Is In The Past",
-    "currentPage": "visit.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -55,7 +55,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 151,
+    "uniqCompNum": 155,
     "versionPublish": "4.12.3",
     "imageResize": true,
     "screenshot": "screenshot.png",
@@ -78,7 +78,7 @@
       "settings": {
         "meta_descr": "Everything You See In In The Past — About",
         "title": "About",
-        "order": 2,
+        "order": 3,
         "meta_image": "@PROJECT_PATH@/assets/images/logo_transparent%20(symbol%20only)-1200x1200.jpg"
       },
       "components": [
@@ -302,7 +302,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>The internet has such a pervasive effect on our lives that it is hard to imagine living without it. People use it as a tool, a companion, a vehicle for communication, a space for self-reflection, and an entertainment platform. As a result, we now begin to speak of post-internet because the internet has become so ubiquitous that we stop to notice its existence.&nbsp;</p><p>This online exhibition looks at how artists use the internet as a medium and a subject of criticism and artistic reflection.&nbsp;<span style=\"font-size: 1.2rem;\">Especially during phenomenal times like these, online spaces are more important than ever because they provide makers and galleries alike with ways to connect with their audience, to help each other, listen, collaborate and heal.</span></p><p><span style=\"font-size: 1.2rem;\">Everything You See Is In The Past is part of a research project by University of Greenwich student Francesco Imola which looks at what concerns the internet brings to artists and curators. It also provides an opportunity to consider and analyse some of the changes that have occurred to curatorial practice in the 21st century thanks to the internet and digital culture.</span></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#f9f295\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>The internet has such a pervasive effect on our lives that it is hard to imagine living without it. People use it as a tool, a companion, a vehicle for communication, a space for self-reflection, and an entertainment platform. As a result, we now begin to speak of post-internet because the internet has become so ubiquitous that we stop to notice its existence.&nbsp;</p><p>This online exhibition looks at how artists use the internet as a medium and a subject of criticism and artistic reflection.&nbsp;<span style=\"font-size: 1.2rem;\">Especially during phenomenal times like these, online spaces are more important than ever because they provide makers and galleries alike with ways to connect with their audience, to help each other, listen, collaborate and heal.</span></p><p><span style=\"font-size: 1.2rem;\">Everything You See Is In The Past is part of a research project by University of Greenwich student Francesco Imola which looks at what concerns the internet brings to artists and curators. It also provides an opportunity to consider and analyse some of the changes that have occurred to curatorial practice in the 21st century thanks to the internet and digital culture.</span></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rUbbgGcYDQ",
           "_protectedParams": [],
           "_global": false,
@@ -321,7 +321,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-1\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>&gt; <a href=\"visit.html\" class=\"text-black\">enter the exhibition</a></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#f9f295\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>&gt; <b>Exhibition opens 28 March 2020</b></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rUbbmWyygd",
           "_protectedParams": [],
           "_global": false,
@@ -812,7 +812,7 @@
       "settings": {
         "meta_descr": "Everything You See In In The Past — Dario S. Bucheli ",
         "title": "Dario",
-        "order": 6,
+        "order": 7,
         "meta_image": "@PROJECT_PATH@/assets/images/staging-room-current-issue-2220x2309.png"
       },
       "components": [
@@ -1073,7 +1073,7 @@
       "settings": {
         "meta_descr": "Everything You See In In The Past — Perce Jerrom",
         "title": "Perce",
-        "order": 5,
+        "order": 6,
         "meta_image": "@PROJECT_PATH@/assets/images/logo_transparent%20(symbol%20only)-1200x1200.jpg"
       },
       "components": [
@@ -1246,7 +1246,7 @@
       "settings": {
         "meta_descr": "Everything You See In In The Past — Enes Alba",
         "title": "Enes",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -1431,7 +1431,7 @@
       "settings": {
         "meta_descr": "Everything You See In In The Past — Atom Chen",
         "title": "Atom",
-        "order": 3,
+        "order": 4,
         "meta_image": "@PROJECT_PATH@/assets/images/atom-i-shit-because-im-a-love-puppy-2560x1901.jpg"
       },
       "components": [
