@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Everything You See Is In The Past",
-    "currentPage": "page7.html",
+    "currentPage": "atomchen.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -76,10 +76,10 @@
   "pages": {
     "about.html": {
       "settings": {
-        "meta_descr": "Everything You See In In The Past — About",
+        "meta_descr": "Everything You See Is In The Past — About",
         "title": "About",
         "order": 2,
-        "meta_image": "@PROJECT_PATH@/assets/images/logo_transparent%20(symbol%20only)-1200x1200.jpg"
+        "meta_image": "@PROJECT_PATH@/assets/images/exhibition%20landscape%20post%20-%20info(1)-2000x1414.png"
       },
       "components": [
         {
@@ -257,12 +257,13 @@
     },
     "index.html": {
       "settings": {
-        "title": "Everything You See In In The Past",
+        "title": "Everything You See Is In The Past",
         "meta_descr": "On the internet, I see myself there where I am not",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 1,
+        "meta_image": "@PROJECT_PATH@/assets/images/exhibition%20landscape%20post%20-%20info(1)-2000x1414.png"
       },
       "components": [
         {
@@ -350,10 +351,11 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "On the internet, I see myself there where I am not",
+        "meta_descr": "On the internet, I see myself there where I am not. Visit Everything You See Is In The Past. Open now.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/exhibition%20landscape%20post%20-%20info(1)-2000x1414.png"
       },
       "components": [
         {
@@ -591,10 +593,10 @@
     },
     "francescoimola.html": {
       "settings": {
-        "meta_descr": "Everything You See In In The Past — Francesco Imola",
+        "meta_descr": "Everything You See Is In The Past — Francesco Imola",
         "title": "Francesco",
         "order": 7,
-        "meta_image": "@PROJECT_PATH@/assets/images/logo_transparent%20(symbol%20only)-1200x1200.jpg"
+        "meta_image": "@PROJECT_PATH@/assets/images/exhibition%20landscape%20post%20-%20info-2000x1414.png"
       },
       "components": [
         {
@@ -707,7 +709,7 @@
     },
     "dariosbucheli .html": {
       "settings": {
-        "meta_descr": "Everything You See In In The Past — Dario S. Bucheli ",
+        "meta_descr": "Everything You See Is In The Past — Dario S. Bucheli ",
         "title": "Dario",
         "order": 6,
         "meta_image": "@PROJECT_PATH@/assets/images/staging%20room%20(current%20issue)-2220x2309.png"
@@ -969,9 +971,10 @@
     },
     "enesalba.html": {
       "settings": {
-        "meta_descr": "Everything You See In In The Past — Enes Alba",
+        "meta_descr": "Everything You See Is In The Past — Enes Alba",
         "title": "Enes",
-        "order": 4
+        "order": 4,
+        "meta_image": "@PROJECT_PATH@/assets/images/847004359-640.jpeg"
       },
       "components": [
         {
@@ -1155,7 +1158,7 @@
     },
     "atomchen.html": {
       "settings": {
-        "meta_descr": "Everything You See In In The Past — Atom Chen",
+        "meta_descr": "Everything You See Is In The Past — Atom Chen",
         "title": "Atom",
         "order": 3,
         "meta_image": "@PROJECT_PATH@/assets/images/atom-i-shit-because-im-a-love-puppy-2560x1901.jpg"
@@ -1289,7 +1292,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#f9f295\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>Atom Chen is a London based independent curator and artist working in installation, sculpture and painting. Examining childhood memories and the effects of nostalgia, his work addresses the disorder of time. Laced with humour, his art warns of a tendency to over embrace the future and the homogenisation of digitised culture. Chen is currently studying MA Curating Contemporary Art at the Royal College of Art and holds a BFA Fine Art from the School of Visual Arts, New York.&nbsp;</p><p>Previous solo and group shows include Counter Point (RCA Courtyard Gallery, London); Seen Forms (HYB4 Galerie, Prague, 2020); Arriving Tomorrow (Harlesden High Street Gallery, London, 2019) Rechewing, RCA (Dyson Gallery, London &amp; China, 2019); SVA Chelsea Gallery (New York, 2019); and DISCONNECT (c.r.e.t.a Roma, Rome, 2018).&nbsp;<span style=\"font-size: 1.2rem;\">Atom's work is held in the public collections of the China Health &amp; Medical Development Foundation; Milan Babic Architects; and Tsinghua Holdings AI Industrial Foundation, amongst others.</span></p><p>Follow the artist:&nbsp;<a href=\"https://www.instagram.com/ayomw/\" target=\"_blank\" style=\"font-size: 1.4rem; background-color: rgb(249, 242, 149);\">Instagram</a><span style=\"font-size: 1.4rem;\"> / </span><a href=\"mailto:zidong.chen@network.rca.ac.uk\" style=\"font-size: 1.4rem; background-color: rgb(249, 242, 149);\">Email</a><span style=\"font-size: 1.4rem;\">&nbsp;</span></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#f9f295\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>Atom Chen is a London based independent curator and artist working in installation, sculpture and painting. Examining childhood memories and the effects of nostalgia, his work addresses the disorder of time. Laced with humour, his art warns of a tendency to over embrace the future and the homogenisation of digitised culture. Chen is currently studying MA Curating Contemporary Art at the Royal College of Art and holds a BFA Fine Art from the School of Visual Arts, New York.&nbsp;</p><p>Previous solo and group shows include Counter Point (RCA Courtyard Gallery, London); Seen Forms (HYB4 Galerie, Prague, 2020); Arriving Tomorrow (Harlesden High Street Gallery, London, 2019); Rechewing, RCA (Dyson Gallery, London); China 2019 (SVA Chelsea Gallery (New York, 2019) and DISCONNECT (c.r.e.t.a Roma, Rome, 2018).&nbsp;<span style=\"font-size: 1.2rem;\">Atom's work is held in the public collections of the China Health &amp; Medical Development Foundation; Milan Babic Architects; and Tsinghua Holdings AI Industrial Foundation, amongst others.</span></p><p>Follow the artist:&nbsp;<a href=\"https://www.instagram.com/ayomw/\" target=\"_blank\" style=\"font-size: 1.4rem; background-color: rgb(249, 242, 149);\">Instagram</a><span style=\"font-size: 1.4rem;\"> / </span><a href=\"mailto:zidong.chen@network.rca.ac.uk\" style=\"font-size: 1.4rem; background-color: rgb(249, 242, 149);\">Email</a><span style=\"font-size: 1.4rem;\">&nbsp;</span></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rTYGYbwVa7",
           "_anchor": "content1-16",
           "_protectedParams": [],
@@ -1329,9 +1332,10 @@
     },
     "page7.html": {
       "settings": {
-        "meta_descr": "Everything You See In In The Past — Enes Alba",
+        "meta_descr": "Everything You See Is In The Past — Enes Alba",
         "title": "Perce",
-        "order": 5
+        "order": 5,
+        "meta_image": "@PROJECT_PATH@/assets/images/maxresdefault.jpeg"
       },
       "components": [
         {
